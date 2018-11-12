@@ -18,4 +18,4 @@ You need to build a laravel application based on html's added as shown in pictur
 
 ## Contact-list
 
-![alt text](https://github.com/badranawad/contact-form/raw/master/contact-list.png)
+![contact list table](https://github.com/badranawad/contact-form/raw/master/contact-list.png)
