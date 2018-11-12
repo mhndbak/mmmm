@@ -7,3 +7,15 @@ HTML contact us form
 | Effort |  |  |  |  |
 | Accuracy |  |  |  |  |
 | Timely submission |  |  |  |  |
+
+
+
+You need to build a laravel application based on html's added as shown in pictures
+
+## Contact-form
+
+![contact form](https://github.com/badranawad/contact-form/raw/master/contact%20form.png)
+
+## Contact-list
+
+![alt text](https://github.com/badranawad/contact-form/raw/master/contact-list.png)
