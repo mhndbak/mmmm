@@ -2,7 +2,7 @@
 HTML contact us form
 
 
-| Assignment Grade | 5 | 4 | 3 | 2 | 2 |
+| Assignment Grade | 5 | 4 | 3 | 2 | 1 |
 | --- | --- | --- | --- | --- | --- |
 | Effort |  |  |  |  |  |
 | Accuracy |  |  |  |  |  |
